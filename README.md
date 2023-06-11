@@ -1,3 +1,3 @@
-# python_openCV_projects
+# Python_OpenCV_Projects
 Some of my codes in image processing
-Various topics of image processing projects are under the collection of this section
+In this section, how to convert a gray image to color with two methods of intensity segmentation and sine transformation is presented
